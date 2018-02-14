@@ -1,0 +1,37 @@
+<html>
+<title>platypus facts</title>
+</head>
+<body bgcolor=”#ffffff”>
+<p><center><font color="RED" size="7">Platypus Facts</font></center></p>
+<center><font size="5"><li> Here is a short documentary on the platypus, watch this video in order to get an idea of what these majestic creatures are like!</font></center>
+<p><p>  
+<p>
+<p>  
+<p>
+<p>  
+<p>
+<center><iframe width="1000" height="700" src="https://www.youtube.com/embed/btUGDQXMoqY" frameborder="10000" allowfullscreen></iframe>
+<p>  
+<p><p>  
+<p>
+</html></center>
+<p> 
+<p> 
+<p>  
+<p>
+<center><font color="red" size="5"><li> They look like really cool ducks</font></center>
+<center><font size="5"><li> platypuses are one of two mammals that lay eggs </font></center>
+<center><font color="red" size="5"><li> A Duck-Billed Platypus is featured on the reverse of an Australian 20 cent coin. </font></center>
+<center><font size="5"><li> The sting of a Platypus is not dangerous to humans, but is extremely painful and causes rapid swelling in the stung area </font></center>
+<center><font color="red" size="5"><li> To seal itself off from water, the platypus shuts off all of those normal senses and finds prey based solely on electrical signals and mechanical waves that it picks up using its bill. </font></center>
+<p>  
+<p>
+<p>  
+<p>
+<p>  
+<p>
+<center><input type="button" font size="7" value="CLICK FOR PAGE TWO" onclick="window.location.href='page_two.html'" />
+</center></form>
+<html>
+
+ 
